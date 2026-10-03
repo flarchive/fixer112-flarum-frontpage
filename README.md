@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of fixer112/flarum-frontpage.** Not for installation: use [Packagist](https://packagist.org/packages/fixer112/flarum-frontpage) or the [upstream repository](https://github.com/fixer112/flarum-frontpage).
 
-**0** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/fixer112-flarum-frontpage/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**3** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/fixer112-flarum-frontpage/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-05-02 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/fixer112-flarum-frontpage/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-05-02 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/fixer112-flarum-frontpage/tree/archive/v0.1.1) |
+| `v0.1.2` | 2018-05-09 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/fixer112-flarum-frontpage/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/fixer112-flarum-frontpage.json](https://github.com/flarchive/archive-index/blob/main/packages/fixer112-flarum-frontpage.json)
 
